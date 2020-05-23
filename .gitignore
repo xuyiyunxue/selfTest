@@ -1,0 +1,12 @@
+*.suo
+*.user
+*.log
+!*.log/
+.vs
+obj
+bin
+/src/*/bin
+App_Data
+/lib
+.package
+app
